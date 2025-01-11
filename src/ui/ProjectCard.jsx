@@ -3,7 +3,7 @@ import { FiMoreVertical } from 'react-icons/fi';
 
 function ProjectCard({ img, title, discr }) {
   return (
-    <div className="max-w-[900px] bg-white rounded-lg shadow-md overflow-hidden m-4">
+    <div className="max-w-[350px] bg-white rounded-lg shadow-md overflow-hidden m-4">
       <img className="w-full h-120 object-cover" src={img} alt={title} /> 
       <div className="p-6">
         <div className="flex justify-between items-center">

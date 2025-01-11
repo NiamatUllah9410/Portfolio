@@ -5,7 +5,7 @@ import {
     MdCastForEducation,
     MdEmail
 } from "react-icons/md";
-import { FaUser, FaBars } from "react-icons/fa";
+import { FaUser, FaBars, FaChartBar } from "react-icons/fa";
 import { BsGraphUpArrow } from "react-icons/bs";
 import { GoProjectSymlink } from "react-icons/go";
 import { NavLink } from "react-router-dom";
@@ -32,37 +32,37 @@ export default function NavBar() {
         {
             path: '/',
             name: 'Dashboard',
-            icon: <MdDashboardCustomize />
+            icon: <MdDashboardCustomize style={{color:'black'}}/>
         },
         {
             path: '/about',
             name: 'About',
-            icon: <FaUser />
+            icon: <FaUser style={{color:'#008073'}}/>
         },
         {
             path: '/skills',
             name: 'Skills',
-            icon: <MdContactMail/>
+            icon: <FaChartBar style={{color:"#9c27b0"}}/>
         },
         {
             path: '/experience',
             name: 'Experience',
-            icon: <BsGraphUpArrow/>
+            icon: <BsGraphUpArrow style={{color:"#04cbf8"}}/>
         },
         {
             path: '/projects',
             name: 'Projects',
-            icon: <GoProjectSymlink />
+            icon: <GoProjectSymlink style={{color:"#3f51b5"}}/>
         },
         {
             path: '/education',
             name: 'Education',
-            icon: <MdCastForEducation />
+            icon: <MdCastForEducation style={{color:"#ff9800"}}/>
         },
         {
             path: '/contact',
             name: 'Contact',
-            icon: <MdEmail/>
+            icon: <MdEmail style={{color:"#424242"}}/>
         }
     ];
 

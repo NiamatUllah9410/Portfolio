@@ -2,7 +2,8 @@ import React from 'react';
 import ProjectCard from '../ui/ProjectCard';
 import Dental from '../assets/images/dental.jpg';
 import Mobe from '../assets/images/moby.jpg';
-import Ezitech from "../assets/images/Ezitech.jpg"
+import Ezitech from "../assets/images/Ezitech.jpg";
+// import WayBackFlow from "../assets/images/flowback.png"
 
 
 const projects = [

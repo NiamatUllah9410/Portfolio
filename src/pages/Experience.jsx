@@ -15,15 +15,15 @@ function Experience() {
         </div>
         <hr className="mx-4" />
         <p className="px-6 md:px-12 py-4 text-[16px] md:text-[20px]">
-          During my internship at Devbees, I worked as a frontend web developer on various projects, utilizing React to create efficient web solutions. My focus was on frontend technologies and design, contributing to delivering high-quality results. I collaborated with the team to implement responsive and visually appealing user interfaces, ensuring an optimal user experience. This role allowed me to hone my skills in React and other frontend technologies while producing impactful and polished web applications.
+          During my job at Devbees, I worked as a frontend web developer on various projects, utilizing React to create efficient web solutions. My focus was on frontend technologies and design, contributing to delivering high-quality results. I collaborated with the team to implement responsive and visually appealing user interfaces, ensuring an optimal user experience. This role allowed me to hone my skills in React and other frontend technologies while producing impactful and polished web applications.
         </p>
         <div className="px-6 md:px-12 py-6">
           <h2 className="text-[#008073] font-thin text-[20px] md:text-[24px]">Key Values</h2>
         </div>
         <div className="px-6 md:px-12 text-[16px] md:text-[20px] mb-6 flex flex-col gap-2 pb-6">
-          <li>Experience of at least 1 year in developing frontend web applications and components using React.</li>
+          <li>Experience of at least 2 year in developing frontend web applications and components using React.</li>
           <li>Converted Figma designs into responsive, pixel-perfect websites with optimized SVGs, ensuring smooth transitions from design to development.</li>
-          <li>Developed responsive web applications using React.js, HTML5, and CSS3.</li>
+          <li>Developed responsive web applications using React.js, HTML5, and CSS3, and used Tailwind CSS, Bootstrap and SASS for scalable, high-quality UI design.</li>
           <li>Helped design and implement user-friendly, consistent interfaces across devices and browsers.</li>
           <li>Used Git for version control to manage code repositories and track changes in collaborative projects.</li>
           <li>Troubleshooted and debugged frontend issues to ensure smooth and error-free user experience.</li>
